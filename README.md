@@ -1,10 +1,16 @@
-# 👩🏻‍💻 Milena da Cunha Mendes
-**`Desenvolvedora FullStack`**
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-Me chamo Milena, tenho 22 anos. Estou cursando o Ensino Superior em Engenharia de Software. Sou apaixonada por tecnologia e desenvolvimento de software. 
----
+```diff
+OIe, Sou a Mi 👩‍💻.
 
-### 🤖 Linguagens e Tecnologias
+@@Desenvolvedora de Software@@
++ Campo Grande, MS 🇧🇷.
+-> 22 years old
+! 📖 
+```
+
+### 📖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -38,33 +44,6 @@ Me chamo Milena, tenho 22 anos. Estou cursando o Ensino Superior em Engenharia d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-
 
 <br/>
 <br/>
