@@ -1,12 +1,12 @@
-<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
 
 ```diff
-OIe, Sou a Mi 👩‍💻.
+Oie, Sou a Mi 👩‍💻.
 
 @@Desenvolvedora de Software@@
 + Campo Grande, MS 🇧🇷.
--> 22 years old
-! 📖 
+-> 22 level
 ```
 
 
