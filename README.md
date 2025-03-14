@@ -4,7 +4,7 @@
 ```diff
 Oie, Sou a Mi 👩‍💻.
 
-@@Desenvolvedora de Software@@
+@@ Desenvolvedora de Software @@
 + Campo Grande, MS 🇧🇷.
 -> 22 level
 ```
