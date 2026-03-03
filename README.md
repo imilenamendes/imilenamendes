@@ -4,8 +4,6 @@
 ```diff
 Oie, Sou a Mi 👩‍💻.
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
 + Campo Grande, MS 🇧🇷.
 -> 22 anos
 ```
